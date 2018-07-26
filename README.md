@@ -12,7 +12,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 # How to Use
 
-you may either clone this repo or you may download a .zip file to your local machine. inspect the .html file to see tests passed by Jasmine.
+You may either clone this repo or you may download a .zip file to your local machine. inspect the .html file to see tests passed by Jasmine.
 
 # Tests That Created
 
